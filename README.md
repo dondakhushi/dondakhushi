@@ -29,12 +29,12 @@
 ```text
 ╔════════════════════════════════════════════════════════════╗
 ║                                                            ║
-║  > Initializing khushi-donda.profile .............. ✅    ║
-║  > Loading machine-learning toolchain ............. 🤖    ║
-║  > Building end-to-end web products ............... ⚙️    ║
-║  > Practicing DSA with daily consistency .......... 🧠    ║
-║  > Open source + project shipping mode ............ 🔥    ║
-║  > Status: LEARNING, BUILDING, IMPROVING .......... ⚡    ║
+║  > Initializing khushi-donda.profile .............. ✅     ║
+║  > Loading machine-learning toolchain ............. 🤖     ║
+║  > Building end-to-end web products ............... ⚙️     ║
+║  > Practicing DSA with daily consistency .......... 🧠     ║
+║  > Open source + project shipping mode ............ 🔥     ║
+║  > Status: LEARNING, BUILDING, IMPROVING .......... ⚡      ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -79,12 +79,12 @@
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dondakhushi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=dondakhushi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dondakhushi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
